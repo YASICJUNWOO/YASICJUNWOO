@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3>LES'T INTRODUCE MY GIT</h3>
 <body>
-  <div color="skyblue">
+  <div color="skyblue" border="solid red 3px">
 <a href="https://perfectcoding.tistory.com/">MY BLOG!</a>
   </div>
 </body>
