@@ -20,4 +20,5 @@ Here are some ideas to get you started:
   <div color="skyblue" border="solid red 3px">
 <a href="https://perfectcoding.tistory.com/">MY BLOG!</a>
   </div>
+  <input type="text>
 </body>
