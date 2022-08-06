@@ -22,6 +22,6 @@ Here are some ideas to get you started:
   </div>
   <input type="text>
   
-  ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=joonoo3)](https://solved.ac/joonoo3)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=joonoo3)](https://solved.ac/joonoo3)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YASICJUNWOO&layout=compact&theme=dark)
 </body>
