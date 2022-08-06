@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 <a href="https://perfectcoding.tistory.com/">MY BLOG!</a>
   </div>
   <input type="text>
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=joonoo3)](https://solved.ac/joonoo3)
 </body>
