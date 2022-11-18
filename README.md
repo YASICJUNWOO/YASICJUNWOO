@@ -4,7 +4,13 @@
   <div color="skyblue" border="solid red 3px" align="center">
 <a href="https://perfectcoding.tistory.com/">MY BLOG!</a>
   </div>
-               
+  
+  <div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YASICJUNWOO&&langs_count=8&&layout=compact&theme=dark)
+
+</div>
+  
 <div align="center">
 
 [![Solved.ac
@@ -12,11 +18,7 @@
  
 </div>
 
-<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YASICJUNWOO&&langs_count=8&&layout=compact&theme=dark)
-
-</div>
 
 <div align="center">
 
