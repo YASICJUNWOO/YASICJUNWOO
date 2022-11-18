@@ -25,6 +25,7 @@
   ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=YASICJUNWOO&show_icons=true&theme=tokyonight)
 
 </div>
-  
+
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=로고명&logoColor=white"/>
   
 </body>
