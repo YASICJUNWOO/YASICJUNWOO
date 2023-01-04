@@ -1,13 +1,14 @@
 
 <div   align="center">I'm YASICJUNWOO!</div>
 <body >
-  </div>
   
   <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YASICJUNWOO)](https://github.com/anuraghazra/github-readme-stats)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YASICJUNWOO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   </div>
+  
 
 </div>
-  
 <div align="center">
 
 [![Solved.ac
