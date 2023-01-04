@@ -5,7 +5,7 @@
   
   <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YASICJUNWOO&&langs_count=8&&layout=compact&theme=dark)
+  ![YASICJUNWOO's GitHub stats](https://github-readme-stats.vercel.app/api?username=YASICJUNWOO&show_icons=true&theme=radical)
 
 </div>
   
