@@ -10,22 +10,10 @@
 
 </div>
 <div align="center">
- C++
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=joonoo3)](https://solved.ac/joonoo3)
  
 </div>
-
-</div>
-<div align="center">
-JAVA
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yasicjw)](https://solved.ac/yasicjw)
- 
-</div>
-
-
 
 
 <div align="center">
