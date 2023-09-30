@@ -14,6 +14,9 @@
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=joonoo3)](https://solved.ac/joonoo3)
 </div>
 
+ <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+
 
 <div align="center">
 
