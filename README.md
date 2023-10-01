@@ -1,7 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=안녕하세요%20YASICJUNWOO의%20GitHub입니다&c&&color=gradient&fontSize=40&animation=twinkling&height=200&reversal=true&fontAlignY=40)
 
 <body >
-  
+  <div  align="center">
+    
+<p>Spring Boot 기반으로 여러 기술을 사용하는 백엔드 주니어입니다.</p>
+ <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a> <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+ </p>
+⭐ <span>Frontend &emsp; </span>  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=black"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+
+⭐ Backend -> Java, Groovy, Spring Boot, Spring MVC, Spring Security, Spring Data JPA/Redis, Hibernate, Gradle
+
+⭐ DevOps -> MySQL, AWS Code Deploy, AWS BeanStalk, S3, EC2, RDS, Nginx, Tomcat
+
+⭐ IDE -> IntelliJ, DataGrip, Visual Studio Code
+</div>
+
 <div  align="center">
 
 <span> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YASICJUNWOO&layout=compact)](https://github.com/anuraghazra/github-readme-stats) </span>
