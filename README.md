@@ -1,18 +1,16 @@
+![header](https://capsule-render.vercel.app/api?type=Waving&text=안녕하세요%20YASICJUNWOO의%20GitHub입니다&c&&color=gradient&fontSize=40&animation=twinkling&height=200&reversal=true&fontAlignY=40)
 
-<div   align="center">I'm YASICJUNWOO!</div>
 <body >
   
-  <div align="center">
+<div  align="center">
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YASICJUNWOO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-   </div>
+<span> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YASICJUNWOO&layout=compact)](https://github.com/anuraghazra/github-readme-stats) </span>
+ <span> [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=joonoo3)](https://solved.ac/joonoo3) </span>
+ 
+ </div>
   
 
-</div>
 
-<div align="center">
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=joonoo3)](https://solved.ac/joonoo3)
-</div>
 
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2037%20mins-blue)
