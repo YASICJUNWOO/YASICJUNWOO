@@ -4,16 +4,19 @@
   <div  align="center">
     
 <p>Spring Boot 기반으로 여러 기술을 사용하는 백엔드 주니어입니다.</p>
- <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a> <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+ <a href="[클릭시 이동할 링크](https://velog.io/@joonoo3)" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a> <a href="www.linkedin.com/in/kongjunwoo" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
  </p>
-⭐ <span>Frontend &emsp; </span>  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=black"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-
-⭐ Backend -> Java, Groovy, Spring Boot, Spring MVC, Spring Security, Spring Data JPA/Redis, Hibernate, Gradle
-
-⭐ DevOps -> MySQL, AWS Code Deploy, AWS BeanStalk, S3, EC2, RDS, Nginx, Tomcat
-
-⭐ IDE -> IntelliJ, DataGrip, Visual Studio Code
+✅ <span>Frontend &emsp; </span>  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=black"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/ReactNative-09D3AC?style=for-the-badge&logo=createreactapp&logoColor=white">
+</p>
+⭐ Backend <span>&emsp; </span>  <img src="https://img.shields.io/badge/JAVA-437291?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/springSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
+</p>
+⭐ DevOps <span>&emsp; </span>    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/TomCat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
+</p>
+✅ IDE<span>&emsp; </span>  <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white">   <img src="https://img.shields.io/badge/datagrip-000000?style=for-the-badge&logo=datagrip&logoColor=white">  <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=black"> <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black">
 </div>
+</p>
+
+---
 
 <div  align="center">
 
@@ -63,27 +66,13 @@ Windows                  12 hrs 23 mins      ███████████�
  Last Updated on 04/10/2023 18:38:52 UTC
 <!--END_SECTION:waka-->
 
-
+<!--
 <div align="center">
 
   ![YASICJUNWOO's GitHub stats](https://github-readme-stats.vercel.app/api?username=YASICJUNWOO&show_icons=true&theme=radical)
 
 </div>
-  
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-</br>
-<p align="center">
-<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=Expo&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
+-->
 
   
 </body>
